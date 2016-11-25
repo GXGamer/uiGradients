@@ -775,5 +775,9 @@
     {
         "name": "EasyMed",
         "colors": ["#DCE35B", "#45B649"]
+    },
+    {
+        "name": "Blue Night",
+        "colors": ["#816490", "#a4d0db"]
     }
 ]
